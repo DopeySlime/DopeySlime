@@ -1,5 +1,5 @@
 # Hi, I'm St.Iruy! 👋
-## Python Junior Developer | Java Beginner | C# Enthusiast
+## Python Junior Developer
 
 Welcome to my GitHub profile! I'm passionate about coding and exploring different programming languages. Here are some of the projects I've been working on:
 
